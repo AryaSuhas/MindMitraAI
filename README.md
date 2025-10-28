@@ -1,4 +1,3 @@
-﻿# MindMitraAI
 # 🧠 MindMitra.AI
 
 MindMitra.AI is an AI-powered web application designed to assist users with smart content creation, resume analysis, and personalized recommendations — all in one place.
@@ -36,5 +35,6 @@ MindMitra.AI is an AI-powered web application designed to assist users with smar
 ```bash
 git clone https://github.com/AryaSuhas/MindMitraAI.git
 cd MindMitraAI
+
 
 
